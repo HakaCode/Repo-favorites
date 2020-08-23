@@ -11,7 +11,7 @@
 | 5 | multi-language readme template | The more people to undestand your projects, the better |  <a href="https://github.com/iaraoliveira/multi-language-readme-template" target="_blank" aria-label="multi-language readme">VIEW</a>  |
 | 6 | Open Source Guides | Community guides for open source creators |  <a href="https://github.com/github/opensource.guide" target="_blank" aria-label="Open Source Guides">VIEW</a>  |
 | 7 | badges | Standard and acceptable badges list |  <a href="https://github.com/aleen42/badges" target="_blank" aria-label="badges">VIEW</a>  |
-
+| 8 | Github Profile Readme Generator | Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI. |  <a href="https://github.com/rahuldkjain/github-profile-readme-generator" target="_blank" aria-label="Github Profile Readme Generator">VIEW</a>  |
 
 
 
