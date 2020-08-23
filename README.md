@@ -1,4 +1,4 @@
-# tools-repos
+# Favorite repositories
 
 **Just a repository for me to keep my favorite repositories close at hand**
 
