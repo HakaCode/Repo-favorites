@@ -12,7 +12,7 @@
 | 6 | Open Source Guides | Community guides for open source creators |  <a href="https://github.com/github/opensource.guide" target="_blank" aria-label="Open Source Guides">VIEW</a>  |
 | 7 | badges | Standard and acceptable badges list |  <a href="https://github.com/aleen42/badges" target="_blank" aria-label="badges">VIEW</a>  |
 | 8 | Github Profile Readme Generator | Generate github profile README easily with latest add-ons like visitors count, github stats, etc using minimal UI. |  <a href="https://github.com/rahuldkjain/github-profile-readme-generator" target="_blank" aria-label="Github Profile Readme Generator">VIEW</a>  |
-
+| 9 | The A11Y Project | The A11Y Project is a community-driven effort to make digital accessibility easier. |  <a href="https://github.com/a11yproject/a11yproject.com" target="_blank" aria-label="The A11Y Project">VIEW</a>  |
 
 
 
