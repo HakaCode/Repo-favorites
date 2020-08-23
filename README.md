@@ -10,5 +10,16 @@
 | 4 | git badges | An API serving useful badges for your GitHub Profile README |  <a href="https://github.com/puf17640/git-badges" target="_blank" aria-label="badges github profile readme">VIEW</a>  |
 | 5 | multi-language readme template | The more people to undestand your projects, the better |  <a href="https://github.com/iaraoliveira/multi-language-readme-template" target="_blank" aria-label="multi-language readme">VIEW</a>  |
 | 6 | Open Source Guides | Community guides for open source creators |  <a href="https://github.com/github/opensource.guide" target="_blank" aria-label="Open Source Guides">VIEW</a>  |
+| 7 | badges | Standard and acceptable badges list |  <a href="https://github.com/aleen42/badges" target="_blank" aria-label="badges">VIEW</a>  |
+
+
+
+
+
+
+
+
+
+
 
 <!--| 0 | name | description |  <a href="#" target="_blank" aria-label="Short description">Link</a>  |-->
