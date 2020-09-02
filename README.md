@@ -16,7 +16,7 @@
 | 10 | gitmoji-cli | A gitmoji interactive command line tool for using emojis on commits. |  <a href="https://github.com/carloscuesta/gitmoji-cli" target="_blank" aria-label="gitmoji-cli">VIEW</a>  |
 | 11 | emoji-cheat-sheet | A markdown version emoji cheat sheet |  <a href="https://github.com/ikatyang/emoji-cheat-sheet" target="_blank" aria-label="emoji-cheat-sheet">VIEW</a>  |
 | 12 | CSS Border-Radius | When you use eight values specifying border-radius in CSS, you can build organic looking shapes. Simply use our Generator at |  <a href="https://github.com/9elements/fancy-border-radius" target="_blank" aria-label="CSS Border-Radius">VIEW</a>  |
-
+| 13 | animate.css | A cross-browser library of CSS animations. As easy to use as an easy thing. |  <a href="https://github.com/animate-css/animate.css" target="_blank" aria-label="CSS-animations">VIEW</a>  |
 
 
 
